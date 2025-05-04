@@ -47,4 +47,4 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır - detaylar için [LICENSE]
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-![Taş Kağıt Makas Oyunu](images/screenshot.png)
+![Taş Kağıt Makas Oyunu](image/screenshot.png)
